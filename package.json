@@ -6,7 +6,7 @@
     "version": "3.7.1"
   },
   "dependencies": {
-    "ansi-regex": "^4.1.0",
+    "ansi-regex": "^4.1.1",
     "balanced-match": "^1.0.0",
     "brace-expansion": "^1.1.11",
     "code-point-at": "^1.1.0",
